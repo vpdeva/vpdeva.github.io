@@ -1,0 +1,62 @@
+{
+  "name": "vpdeva.github.io",
+  "private": true,
+  "description": "Vishnu Devarajan personal site",
+  "version": "1.1.0",
+  "homepage": "https://vpdeva.github.io",
+  "author": {
+    "name": "Vishnu Devarajan",
+    "email": "vishnuprakhash@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vpdeva/vpdeva.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/vpdeva/vpdeva.github.io/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://github.com/vpdeva/vpdeva.github.io/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 4.2.3",
+    "npm": ">= 2.14.7"
+  },
+  "scripts": {
+    "bundle": "webpack --production --progress",
+    "lint": "eslint .",
+    "prepush": "npm run lint",
+    "setup": ". ./setup.sh",
+    "start": "webpack-dev-server --hot --inline",
+    "test": "npm run lint",
+    "watch": "webpack --watch"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-react": "^6.0.0",
+    "eslint": "^3.0.0",
+    "eslint-config-vpdeva": "^3.0.0",
+    "eslint-plugin-react": "^6.0.0",
+    "husky": "^0.12.0",
+    "moment": "^2.11.2",
+    "nuka-carousel": "^2.0.0",
+    "react": "^15.0.0",
+    "react-addons-css-transition-group": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "react-hot-loader": "^1.0.0",
+    "react-modal": "^1.0.0",
+    "react-router": "^3.0.0",
+    "superagent": "^3.0.0",
+    "webpack": "^1.0.0",
+    "webpack-dev-server": "^1.0.0"
+  },
+  "eslintConfig": {
+    "extends": "vpdeva/frontend"
+  }
+}
