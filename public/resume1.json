@@ -125,7 +125,7 @@
                 "Creating Websites/Micro sites in (X) HTML, CSS, PHP, MYSQL and JavaScript", 
                 "Administrating Microsoft SharePoint (Intranet)",
                 "Planned and designed the organization's LAN network expansion.",
-                "Upgraded and configured Microsoft Window server and installed network routers, cabling, and firewall.",
+                "Upgraded and configured Microsoft Window server and installed network routers, cabling, and firewall.",
                 "Responsible for network management including network performance tuning, security monitoring, file server backup, and email server administration.",
                 "Worked with the management team to develop security policies and conducted network systems security auditing.",
                 "Provide technical support for application systems integration with database server and application.",
@@ -250,11 +250,11 @@
     ],
     "publications": [
         {
-            "name": "Others:Web:JavaScript, jQuery, PHP, MySQL",
+            "name": "Campus Guiding System:Web:JavaScript, jQuery, PHP, MySQL",
             "publisher": "vpdeva",
             "releaseDate": "2010-12-01",
             "website": "https://github.com/vpdeva",
-            "summary": "Have developed many short term projects on my free time like cron job handler, codeigniter restserver for webhooks, longpoll using nodejs, express, and MYSQL/Mongo etc., that are posted in my github and bitbucket repos"
+            "summary": "Campus Guiding System is a Google Maps-like application to provide directions within the Ministry of health Hospitals campus. It calculates the shortest route between any two points in the university, using the Dijkstra's search algorithm. The system features a rich UI rendered in jQuery UI and jsDraw2D, providing map manipulation and location search functionalities. The backend is developed in PHP, utilizing MySQL as the database."
         },
         {
             "name": "TweetIndex:Android:Java, Python, DynamoDB",
@@ -264,53 +264,53 @@
             "summary": "TweetIndex is a stock recommendations aggregator to identify stock market sentiments expressed through Twitter. Users of TweetIndex can follow influential twitter users who provide substantial advise on market behaviour. TweetIndex collects live tweets specific to the Standard & Poor's 100 Index stocks using Twitter's Streaming API and exposes this information via a Django-based, MongoDB backed RESTful API, an Android application provides the UI and makes user queries."
         },
         {
-            "name": "Ministry of Heath, Kuwait:Web:JavaScript, jQuery, PHP, MySQL",
-            "publisher": "vpdeva",
-            "releaseDate": "2010-12-01",
-            "website": "https://moh.gov.kw",
-            "summary": "Created enormous number of applications for hospitals and departments under Ministry of health in Kuwait using Android/iOS, ionic + Angularjs, Phonegap/Corodova, Git, CI/CD, PHP, MYSQL, NOSQL, HTML5 & CSS3. Integrated apps with HIS/PCIS etc.,"
-        },
-        {
-            "name": "SBG Infosys:Windows:MATLAB, EyeLink",
+            "name": "Heatmap Generator:Windows:MATLAB, EyeLink",
             "publisher": "vpdeva",
             "releaseDate": "2013-11-01",
-            "website": "https://vishnudevarajan.com",
-            "summary": "Worked as junior system administrator in this company, learned about networks, security, topologies, installations and infrastructure management. This experience gave interest in development of website and softwares."
+            "website": "https://github.com/vpdeva/heatmap-generator",
+            "summary": "Heatmap Generator is a heatmap generation application developed in MATLAB for eye-tracking data from EyeLink. Data can be input in tab-separated values format (TSV) and will use images in either PNG or JPEG format to generate heatmaps in various conditions."
         },
         {
-            "name": "Freelance-Mobile:iOS:Objective-C",
+            "name": "load-directory:Library:Node.js",
+            "publisher": "vpdeva",
+            "releaseDate": "2016-09-01",
+            "website": "https://www.npmjs.com/package/load-directory",
+            "summary": "load-directory is an extension of the require-all module with require strategies for files, allowing for further customization and standardized structures during loading of directories in Node.js."
+        },
+        {
+            "name": "vpdeva.github.io:Web:Node.js, React.js",
+            "publisher": "vpdeva",
+            "releaseDate": "2016-09-01",
+            "website": "https://github.com/vpdeva/vpdeva.github.io",
+            "summary": "vpdeva.github.io is a static single-page application developed using React.js in pure functional code. It extends the Ceevee template designed by Styleshout, ported over to React.js, and follows the JSON Resume schema to store a Curriculum Vitae in JSON format."
+        },
+        {
+            "name": "eslint-config-vpdeva:Library:Node.js, Eslint",
+            "publisher": "vpdeva",
+            "releaseDate": "2016-09-01",
+            "website": "https://www.npmjs.com/package/eslint-config-vpdeva",
+            "summary": "eslint-config-vpdeva is a custom eslint configuration module that provides backend and frontend eslint configurations for Node.js and React.js software development. It extends/combines the eslint-config-xo and eslint-plugin-react modules."
+        },
+        {
+            "name": "zerohm:iOS:Objective-C",
             "publisher": "vpdeva",
             "releaseDate": "2009-12-01",
-            "website": "https://vishnudevarajan.com",
-            "summary": "Developing mobile apps since 2009. Developed more than 30 apps that can be found in my apple app store and google play store"
+            "website": "https://github.com/vpdeva/zerohm",
+            "summary": "zerohm is an iPhone game designed to help science and engineering students learn the resistor color band codes, a fundamental identification system in the field of electronics. It features 3 modes aimed to take a student from A-Z in the understanding of resistor color codes. It was developed with Objective-C and XCode 3.1 for iPhone 3.1."
         },
         {
-            "name": "KAMAR Ltd:Android:Java, Python, DynamoDB",
+            "name": "dockerfiles:Library:Dockerfile",
             "publisher": "vpdeva",
-            "releaseDate": "2013-12-01",
-            "website": "https://kamar.nz",
-            "summary": "Kamar limited is a school administration software development company located in Tauranga NZ. I worked for 3 months and developed apps using Android, iOS, bootstrap, HTML5, CSS3, PHP, MYSQQL, Nodejs, ReactJS, AngularJS and NOSQL. Chat client/server, web portal, Android/ios apps, vanilla forums are the important projects I developed."
+            "releaseDate": "2015-10-01",
+            "website": "https://github.com/vpdeva/dockerfiles",
+            "summary": "Dockerfiles for setting up Node.js workers making use of PDF generation libraries: zint."
         },
         {
-            "name": "The Interaction Labs:Library:Node.js",
+            "name": "SimpleSudoku:Android:Java",
             "publisher": "vpdeva",
-            "releaseDate": "2016-09-01",
-            "website": "https://www.theinteractionlabs.com/",
-            "summary": "Developed Augumented reality applications, web apps and mobile apps for clients in UK, Singapore and India. Did Pre-sales and generated revenue that gave me passion to know more about business model, later purchased stakes."
-        },
-        {
-            "name": "iProcess:Web:Node.js, React.js",
-            "publisher": "vpdeva",
-            "releaseDate": "2016-09-01",
-            "website": "https://iprocess.co",
-            "summary": "Place where I know about professsional or corporate culture. learned about Android, iOS and Web techs. Worked as a Junior developer, part timer. "
-        },
-        {
-            "name": "Freelance-Web:Library:Node.js, Eslint",
-            "publisher": "vpdeva",
-            "releaseDate": "2016-09-01",
-            "website": "https://www.vishnudevarajan.com",
-            "summary": "Worked with own products and for clients. Founder of 4 web apps fixt, foodflys, tag2book and cartwalk. My major clients include beds.sg, Vapor965.com and Hadana"
+            "releaseDate": "2013-10-01",
+            "website": "https://github.com/vpdeva/simple-sudoku",
+            "summary": "A basic, drag-and-drop tiled sudoku game for Android phones. Includes two levels of gameplay: \"Level 1\" pits the player in a partially filled grid, \"Level 2\" pits the player in an empty grid."
         }
     ],
     "skills": [
