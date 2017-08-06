@@ -53,6 +53,35 @@
         ]
     },
     "work": [
+        {
+            "company": "Bank of New Zealand Limited",
+            "position": "React-Backbone Developer - 7 Months Contract",
+            "website": "https://www.bnz.co,nz/",
+            "startDate": "2017-08-07",
+            "endDate": "2018-03-03",
+            "summary": "Wellington, New Zealand",
+            "highlights": [
+                "Developing, Testing and Maintaining Creditcard information system",
+                "Developing Front-end using React, Middleware using Backbone and Silverstripe/PHP as backend",
+                "Focused on HTML5/CSS3/JavaScripts",
+                "Supporting development tickets, solving errors, Continuous Integration, Gitflow and Jira (Kanban)"
+            ]
+        },
+        {
+            "company": "Aviat Networks Limited",
+            "position": "Javascript Developer - 3 Months Contract",
+            "website": "https://www.aviatnet.com/",
+            "startDate": "2017-04-19",
+            "endDate": "2017-07-21",
+            "summary": "Wellington, New Zealand",
+            "highlights": [
+                "Developing, Testing and Maintaining Aviat cloud platform that is used for network calculations",
+                "Developing Front-end using Angular 1.3.6 and Back-end using Node/Restful API/Mongo",
+                "Designing and developing Google Maps and Chart API’s",
+                "Focused on HTML5/CSS3/JavaScript and Geolocation technologies",
+                "Supporting development tickets, solving errors, Continuous Integration, Gitflow and Jira (Kanban)"
+            ]
+        },
          {
             "company": "Cloud Source Limited (Thundermaps)",
             "position": "Developer - 3 Months Contract",
@@ -65,7 +94,6 @@
                 "Developing Back-end using Ruby-On-Rails and Restful API’s",
                 "Designing and developing ArcGIS, PostGIS, MapBox and Google Maps API’s",
                 "Focused on HTML5/CSS3/JavaScript and Geolocation technologies",
-                "Developed bootstrap/PHP version of KAMAR student portal that connects filemaker database",
                 "Supporting development tickets, solving raygun errors, Continuous Integration, Gitflow and Jira (Kanban)"
             ]
         },
